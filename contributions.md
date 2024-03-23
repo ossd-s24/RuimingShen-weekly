@@ -22,6 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| March 22   |     | OpenStreetMap edit    |   I update the correct name for 4 high school in Beijing    |
+|     |     |     |      |
+|     |     |     |      |
+| March 23   |     | OpenStreetMap edit    |   I add English name for a high school and identify a sub-school on map   |
 |     |     |     |      |
 |     |     |     |      |
