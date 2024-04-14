@@ -28,3 +28,5 @@ Replace the first row with your own contribution.
 | March 31    | [link](https://zh.wikipedia.org/w/index.php?title=%E5%8C%97%E4%BA%AC%E5%B8%82%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6&diff=prev&oldid=82101927)    |  Wikipedia edit    | Add English 
 abbreviation for Beijing No.4 High School    |
 | March 31    | [link](https://zh.wikipedia.org/w/index.php?title=%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E4%B8%AD%E5%AD%A6&diff=prev&oldid=82101957)    | Wikipedia edit    |  Correct the former name of The Middle School Affiliated to Beijing Jiaotong University    |
+| April 14    | [link](https://github.com/zhaojh329/rtty/issues/124) [link](https://github.com/federico-busato/Modern-CPP-Programming/issues/92)| Open the issue for borken links in rtty contributing.md, Request new content in C++ tutorial.|
+| April 14    | [link](https://github.com/521xueweihan/HelloGitHub/issues/2727) | Recommend p5 web editor as an open source project in HelloGitHub |
